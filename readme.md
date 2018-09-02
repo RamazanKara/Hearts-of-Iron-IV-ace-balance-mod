@@ -2,9 +2,13 @@
 
 ## Description:
 
-In the base game, the most effective ace size is 10. That's because the bonus from ace generation is at its highest at 10 % of 100 , so somebody who just plain manages 10 wing size planes is unstoppable with the ace buffs.
-This mod actually changes this, by setting the calculation to 10 % of 1000, making any squadron size under 100 as effective as 100. This mod is useful for anybody who hates macroing the air war or basically hates losing with more effective
-planes against somebody who micromanages 10 size squadrons.
+The most effective wing size in the game is 1-10, because the bonus from aces are at its highest at 10 % of 100 ( NDefines.NAir.ACE_WING_SIZE = 100; ), so if you want to get the most out of your planes, you have to micro manage 1-10 air wing size planes in vanilla.
+This mod changes the calculation to 10 % of 1000 ( NDefines.NAir.ACE_WING_SIZE = 1000; ), any air wing size under 100 gets the same buffs from aces as 100 air wing size.
+
+This mod is useful for anybody who hates micromanaging the air war or basically hates losing with more effective
+planes against somebody who micromanages 1-10 air wing size planes.
+
+Mod is available on Steam now.
 
 ## Install:
 
